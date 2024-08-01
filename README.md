@@ -7,6 +7,7 @@ This will be a "living repository" in effect, like many projects, so expect upda
 I will do my best to keep an update log here for any updates, and explain the more confusing concepts along with those update logs. Hopefully this can be both a mathematical learning experience and a coding experience for everyone involved!
 
 Some of the potential next concepts: washer & shell methods, ratio testing for series, optimization, related rates, polar coordinates & cartesian coordinate relationships (such as conversion), LaPlace transforms, Taylor's series, partial differentiation, and more!
+
 *Note: I am going to presume you have a basic calculus background with concepts such as derivatives/tangent lines and basic integration. I will try to update my explanations as I learn more about each concept*
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 **Newton's Method:**
