@@ -81,7 +81,7 @@ class CoreCalc:
         return linearized_function
 
     @staticmethod
-    def factorialRun(num):
+    def factorialRun(num: int) -> int:
         # Calculates the factorial of a number (from an older project I wrote) --> static function
         factorialNum = 1
 
