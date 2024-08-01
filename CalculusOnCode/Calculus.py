@@ -80,5 +80,22 @@ class CoreCalc:
         linearized_function = sympify(f"{foa} + {fpoa} * ({wrt} - {a})")
         return linearized_function
 
+    @staticmethod
+    def factorialRun(num):
+        # Calculates the factorial of a number (from an older project I wrote) --> static function
+        factorialNum = 1
+
+        if num == 0 or num == 1:
+            return factorialNum
+
+        if num < 0:
+            raise Exception("Factorial operand not defined for numbers below zero")
+
+        for nextNum in range(2, num + 1):
+            factorialNum *= nextNum
+
+        return factorialNum
+
+
     def to_string(self) -> str:
         return str(self.expression)
