@@ -10,7 +10,7 @@ print("DOMAIN:", my_func.domain()) # Will evaluate to all real numbers
 
 print("UNDEFINED VALUES:", my_func.find_undefined()) # Prints undefined values
 
-print("EVALUATION:", my_func.evaluate({"x": 1})) # Will evaluate to -2 via plugging ib
+print("EVALUATION:", my_func.evaluate({"x": 1})) # Will evaluate to -2 via plugging in
 
 print("FIRST DERIVATIVE:", my_func.differentiate()) # Prints the derivative (f'(x))
 
