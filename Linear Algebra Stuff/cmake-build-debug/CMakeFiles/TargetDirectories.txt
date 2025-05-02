@@ -1,0 +1,3 @@
+C:/Users/cathe/Desktop/IDEs & Programming/Projects/C++/Linear Algebra Stuff/cmake-build-debug/CMakeFiles/Linear_Algebra_Stuff.dir
+C:/Users/cathe/Desktop/IDEs & Programming/Projects/C++/Linear Algebra Stuff/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/cathe/Desktop/IDEs & Programming/Projects/C++/Linear Algebra Stuff/cmake-build-debug/CMakeFiles/rebuild_cache.dir
