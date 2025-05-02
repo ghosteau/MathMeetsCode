@@ -1,4 +1,4 @@
-# Calculus On Code -- A Mathematical Computing Project
+# Math Meets Code -- A Mathematical Computing Project
 
 A while back, I wrote a couple Python files pertaining to how to solve certain calculus problems using the `SymPy` library (which I directly utilize here), and as the projects grew in volume I found it more and more necessary to create one large repository/class that can deal with all of the techniques I have utilized in a more efficient manner.
 
